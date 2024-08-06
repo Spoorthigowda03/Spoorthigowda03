@@ -1,2 +1,3 @@
-Hii,this is spoorthi from global academy of technology 
+ spoorthi 
+from global academy of technology 
 Electronics and communication 
