@@ -1,3 +1,3 @@
  Hey! this is Spoorthi 
- Global Academy of Technology 
+ from Global Academy of Technology 
  #Electronics and communication 
